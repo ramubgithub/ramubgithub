@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramubgithub&label=Profile%20views&color=0e75b6&style=flat" alt="ramubgithub" /> </p>
 
-- 💬 Ask me about **Python, JavaScript, React JS, Node Js and Express Js**
+- 💬 Ask me about **Python, JavaScript, React JS, Node JS and Express JS**
 
 - 📫 How to reach me **ramu49052@gmail.com**
 
