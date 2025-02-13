@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **to solve Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on Any kind of New projects based on Frontend Developer | Backend Developer | Full Stack Developer | web Developer **MERN Projects**
+- 👯 I’m looking to collaborate on Any kind of New projects based on Frontend Developer | Backend Developer | Full Stack Developer .
 
-- 🤝 I’m looking for help with **Creating Dynamic Projects.**
+- 🤝 I’m looking for help to **Creating Dynamic Projects.**
 
 - 👨‍💻 All of my projects are available at [ramubattula.netlify.app](ramubattula.netlify.app)
 
