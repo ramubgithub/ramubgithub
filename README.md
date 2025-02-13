@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on Any kind of New projects based on Frontend Developer | Backend Developer | Full Stack Developer .
 
-- 🤝 I’m looking for help to **Creating Dynamic Projects.**
+- 🤝 I’m looking for help to **Create Dynamic Projects.**
 
-- 👨‍💻 All of my projects are available at [ramubattula.netlify.app](ramubattula.netlify.app)
+- 👨‍💻 My Portfolio Click Here [ramubattula.netlify.app](ramubattula.netlify.app)
 
 - 💬 Ask me about **Python, JavaScript, React.**
 
