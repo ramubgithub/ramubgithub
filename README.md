@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help to **Create Dynamic Projects.**
 
-- 👨‍💻 My Portfolio Click Here [https://ramubattula.netlify.app](https://ramubattula.netlify.app)
+- 👨‍💻 My Portfolio Click Here [ramubattula.netlify.app](https://ramubattula.netlify.app)
 
 - 💬 Ask me about **Python, JavaScript, React.**
 
